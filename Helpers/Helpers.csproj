@@ -93,9 +93,6 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="RandomPassword.cs" />
     <Compile Include="ReflectionHelper.cs" />
-    <Compile Include="ResourceHelper.cs">
-      <SubType>Code</SubType>
-    </Compile>
     <Compile Include="RouteValuesHelper.cs" />
     <Compile Include="RusNumber.cs" />
     <Compile Include="Properties\Settings.Designer.cs">
